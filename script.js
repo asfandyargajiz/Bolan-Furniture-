@@ -94,7 +94,6 @@ img.addEventListener("mouseenter",()=>{
 img.style.filter="brightness(110%)";
 
 });
-
 img.addEventListener("mouseleave",()=>{
 
 img.style.filter="brightness(100%)";
